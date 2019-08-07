@@ -13,6 +13,8 @@ This project is simple. A hardcoded list of books will be given in a sample skel
 
 ## 2. Movies Project
 
+[Link](https://github.com/BrainBuzzer/movie-exercise)
+
 This project will be to use the hardcoded movies array to produce a website which gives overview of the movies. This project should also implement a search functionality. CSS and Data files shall be given to the developer.
 
 ### Concepts Used
